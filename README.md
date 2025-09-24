@@ -55,18 +55,10 @@ python netaio.py
 - The port scanner accepts up to 4,096 ports per invocation and now resolves IPv4 or IPv6 targets automatically.
 - Subdomain discovery applies a 2-second DNS timeout per host to avoid hanging on slow resolvers.
 
-## Screenshots (todo)
+## Screenshots
 
-Add GIFs or screenshots showcasing the menu and sample reports to improve the GitHub presentation.
+<img width="2024" height="1340" alt="CleanShot 2025-09-24 at 11 36 27@2x" src="https://github.com/user-attachments/assets/25003752-4187-4356-8d5c-4dfd0984b703" />
 
-## Suggested roadmap
-
-- PTR (reverse DNS) lookup.
-- Live ping monitor.
-- TLS inspector (certificate + cipher details).
-- HTTP/HTTPS health check.
-- Package as a module (`pyproject.toml`) and publish to PyPI.
-- Web counterpart (API + frontend) reusing the Python modules.
 
 ## Contributing
 
